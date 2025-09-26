@@ -14,7 +14,7 @@ This project applies **K-Means clustering** to segment customers of a retail bus
 
 2. **Clustering**  
    - Applied **K-Means clustering**  
-   - Determined optimal `k` using **Elbow Method** and **Silhouette Score**  
+   - Determined optimal `k` using **Elbow Method** 
    - Cluster centroids were analyzed to interpret group behaviors  
 
 3. **Customer Segmentation Summary**  
@@ -65,6 +65,3 @@ This project applies **K-Means clustering** to segment customers of a retail bus
 Ashish Kumar Paswan  
 Oasis Infobyte Internship(Data Science Domain)
 
-
-# Run the notebook
-jupyter notebook Customer_Segmentation.ipynb  
